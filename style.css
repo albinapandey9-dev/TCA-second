@@ -1,7 +1,10 @@
-.circle {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(150, 83, 140);
-    border-radius: 50%;
-   
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
 }
