@@ -6,3 +6,5 @@ function change(){
 }
 
 document.addEventListener('click',change);
+
+
